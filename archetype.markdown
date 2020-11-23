@@ -48,7 +48,7 @@ Starting at 13th level, you become a master of slicing a foe’s artery to infli
 #### Strike of Perfect Clarity
 Starting at 17th level, your supreme focus and perfect fighting form allow you to make a single, devastating attack. You execute a flawless strike to drop your foe. When you score a critical hit against a creature, it must make a Constitution saving throw. On a failed save, you deal an extra 100 points of damage against the creature. You must be wielding a stiletto weapon to use this feature.
 
-<img src='https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/Albretcht-Durer-1512.png' style='position:absolute;bottom:130px;right:50px;width:324px' />
+<img src='https://github.com/since1968/ua-images/blob/main/Albretcht-Durer-1512.png?raw=true' style='position:absolute;bottom:130px;right:50px;width:324px' />
 
 
 <div class='pageNumber'>1</div>
@@ -79,7 +79,7 @@ When a creature misses you with a melee attack using a weapon with which you are
 
 <div class='wide'>
 <img
-  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/saint-germier.png" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' />
+  src="https://github.com/since1968/ua-images/blob/main/saint-germier.png?raw=true" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' />
 </div>
 
 <div class='pageNumber'>2</div>
@@ -161,7 +161,7 @@ The archetype is a pastiche of martial strikers. Most of the maneuvers are taken
 
 <div class='wide'>
 <img
-  src="https://raw.githubusercontent.com/since1968/statblocks/master/homebrewery/img/duel.png" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' />
+  src="https://github.com/since1968/ua-images/blob/main/duel.png?raw=true" style='position:absolute;left:-4px;bottom:0px;width:820px;z-index:500' />
 </div>
 
 <div class='pageNumber'>4</div>
